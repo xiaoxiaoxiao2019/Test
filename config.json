@@ -1,6 +1,6 @@
 {
-"myServiceConfig": true,
-"GoogleStandby": true,
+"myServiceConfig": false,
+"GoogleStandby": false,
 "GoogleBannerKey": "ca-app-pub-6719639781124001/7950038797",
 "GoogleWindowKey": "ca-app-pub-6390196606212387/8613360456",
 "ReplaceBannerKey": "ca-app-pub-6390196606212387/5829967799",
